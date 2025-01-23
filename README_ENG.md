@@ -1,6 +1,6 @@
 # Simple Bash Utils
 
-This repository contains implementations of custom `cat` and `grep` utilities as part of the project. The project is divided into several parts with additional bonus tasks to extend functionality.
+This repository contains implementations of custom `cat` and `grep` utilities as part of the project. The project is divided into several parts with additional bonus tasks to improve functionality. It aslo includes extended Python and Bash testing system.
 
 ---
 
