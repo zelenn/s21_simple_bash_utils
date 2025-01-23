@@ -11,3 +11,6 @@ clean:
 rebuild:
 	rm s21_cat s21_cat.o 
 	make
+
+test:
+	./tests.sh
