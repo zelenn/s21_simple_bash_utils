@@ -4,6 +4,10 @@ This repository contains implementations of custom `cat` and `grep` utilities as
 
 ---
 
+![header_picture](misc/bashutils.png)
+
+---
+
 ## Part 1: Working with the `cat` Utility
 
 ### Description
@@ -130,12 +134,3 @@ To clean up build files and binaries, use the `clean` target.
    ```bash
    make clean
    ```
-
----
-
-## Notes
-
-* Both utilities follow the GNU coding standards for CLI tools.
-* Proper error handling and edge case coverage are implemented in both `s21_cat` and `s21_grep`.
-
-Feel free to modify or extend the functionality as needed. Happy coding! 🚀
